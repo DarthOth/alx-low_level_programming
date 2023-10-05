@@ -3,8 +3,8 @@
 /**
  * main - Entry point
  *
- * Description: 'the code's description'
- * @parameter:some description
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
  *
  * Return: Always 0 (Success)
  */
