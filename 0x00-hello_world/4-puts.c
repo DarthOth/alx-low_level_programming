@@ -1,14 +1,11 @@
 #include <stdio.h>
-
 /**
- * main - Entry point
+ * main - puts function
  *
- * Description: 'the program's description'
- * @parameter: describe the parameter
+ * Description: 'using puts function'
  *
- * Return: Always 0 (Success)
+ * Return: 0 (Success)
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
