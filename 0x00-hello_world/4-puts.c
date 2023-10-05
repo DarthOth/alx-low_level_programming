@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/*
-*   something
+/**
+ * something
+ * something else
 */
 
 int main(void)
