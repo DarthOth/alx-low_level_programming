@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-   something
+*   something
 */
 
 int main(void)
