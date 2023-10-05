@@ -1,9 +1,13 @@
 #include <stdio.h>
 
 /**
-* something
-* something else
-*/
+ * main - Entry point
+ *
+ * Description: 'the code's description'
+ * @parameter:some description
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
