@@ -31,6 +31,6 @@ int main(void)
 	else if (last_digit < 6 && last_digit !=0)
 	{
 		printf("%d and is less than 6 and not 0", last_digit);
-
+	}
 	return (0);
 }
