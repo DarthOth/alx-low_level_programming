@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - puts function
+ * main - printf function
  *
- * Description: 'using puts function'
+ * Description: 'using printf function'
  *
  * Return: 0 (Success)
  */
@@ -12,7 +12,7 @@ int main(void)
 
 	for (i = 0; i <= 9; i++)
 	{
-		puts(i);
+		printf("%d", i);
 	}
 	putchar('\n');
 	return (0);
