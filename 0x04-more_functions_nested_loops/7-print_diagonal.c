@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - print line function.
+ * print_diagonal - print line function.
  * @n: function parameter
  * Return: Always 0.
  */
