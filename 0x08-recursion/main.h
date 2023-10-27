@@ -13,5 +13,6 @@ int actual_sqrt_recursion(int n, int m);
 int is_prime_number(int n);
 int actual_prime_number(int n, int m);
 int _putchar(char c);
+int wildcmp(char *s1, char *s2);
 
 #endif /* MAIN_H */
