@@ -26,11 +26,11 @@ int count_word(char *s)
 
 /**
  * **strtow - function name
- * @s: function param
+ * @str: function param
  * Return: return value
  */
 
-char **strtow(char *s)
+char **strtow(char *str)
 {
 	int i, j = 0, begin, end, chrs, len = 0, x = 0;
 	char **m, *tmp;
