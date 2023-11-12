@@ -21,7 +21,8 @@ int count_word(char *s)
 			flag = 1;
 			j++;
 		}
-		return (j);
+	}
+	return (j);
 }
 
 /**
