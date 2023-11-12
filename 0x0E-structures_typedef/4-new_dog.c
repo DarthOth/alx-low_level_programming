@@ -11,7 +11,7 @@ int _strlen(char *s)
 {
 	int i = 0;
 
-	while(s[i] != '\0')
+	while (s[i] != '\0')
 	{
 		i++;
 	}
@@ -26,14 +26,14 @@ int _strlen(char *s)
  */
 
 char *_strcpy(char *dest, char *src)
-{
+u{
 	int len, i = 0;
 
 	while (src[len] != '\0')
 	{
 		len++;
 	}
-	for(i = 0; i < len; i++)
+	for (i = 0; i < len; i++)
 	{
 		dest[i] = src[i];
 	}
@@ -42,7 +42,7 @@ char *_strcpy(char *dest, char *src)
 }
 
 /**
- * new_dog: function name
+ * new_dog - function name
  * @name: fucntion param
  * @age: function param
  * @owner: function param
@@ -77,3 +77,4 @@ dog_t *new_dog(char *name, float age, char *owner)
 	dog->age = age;
 	return (dog);
 }
+
