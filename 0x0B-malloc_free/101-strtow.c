@@ -50,7 +50,7 @@ char **strtow(char *str)
 			if (x)
 			{
 				end = i;
-				tmp = (char *) malloc(sizeof(char) * (c + 1));
+				tmp = (char *) malloc(sizeof(char) * (x + 1));
 				if (tmp == NULL)
 					return (NULL);
 				while (begin < end)
