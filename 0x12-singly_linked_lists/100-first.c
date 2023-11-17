@@ -1,8 +1,9 @@
 #include "lists.h"
 #include <stdlib.h>
 #include <string.h>
+#include <stdio.h>
 
-void first(void) __attribute__((constructor));
+void first(void) __attribute__ ((constructor));
 
 /**
  * first - function name
